@@ -1,0 +1,5 @@
+# eleventy output
+_site
+
+# node modules
+node_modules
