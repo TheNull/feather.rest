@@ -3,6 +3,3 @@ _site
 
 # node modules
 node_modules
-
-# drafts
-drafts/*
